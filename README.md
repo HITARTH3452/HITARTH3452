@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hitarth Singh</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fciudad-futurista--601160250270667206%2F&psig=AOvVaw2rr5yiRkP-Xhu-PEiUg-YH&ust=1686447718264000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJia0cPJt_8CFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src=["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fciudad-futurista--601160250270667206%2F&psig=AOvVaw2rr5yiRkP-Xhu-PEiUg-YH&ust=1686447718264000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJia0cPJt_8CFQAAAAAdAAAAABAE"](https://camo.githubusercontent.com/35999cbcd8f9419ed0a1c9d77272f2bc6ee96c727d1d6d2d9b1b34ed818aa7a7/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3036302f3436302f3838302f6f726967696e616c2f706978656c2d6a6566662d6368696c6c2d6d6172696f2d323032332d322e6769663f31363738363333333736)>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitarth3452&label=Profile%20views&color=0e75b6&style=flat" alt="hitarth3452" /> </p>
 
