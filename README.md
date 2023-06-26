@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hitarthsingh2201@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)](https://docs.google.com/document/d/1qHrEvjqg8CZ9_v_Y1QB6nfJlzYROXMvs/edit?usp=sharing&ouid=115552097594002207363&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1qHrEvjqg8CZ9_v_Y1QB6nfJlzYROXMvs/edit?usp=sharing&ouid=115552097594002207363&rtpof=true&sd=true]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
